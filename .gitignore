@@ -1,0 +1,21 @@
+# Binaries and build outputs
+bin/
+dist/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.out
+*.test
+
+# Coverage / profiling
+coverage.out
+*.coverprofile
+*.prof
+
+# Local files
+.DS_Store
+.env
+tmp/
+.cache/
